@@ -29,6 +29,8 @@ public class CreateOrganisationTest {
 		String Url=p.getProperty("url");
 		driver.get(Url);
 	System.out.println("Organization Created");
+	System.out.println("Vtiger Org");
+	System.out.println("Test Script");
 }
 	
 	

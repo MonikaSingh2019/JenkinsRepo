@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-16T14:46:44 IST" name="Default suite" finished-at="2022-08-16T14:46:51 IST" duration-ms="7201">
+  <suite started-at="2022-08-16T16:59:41 IST" name="Default suite" finished-at="2022-08-16T16:59:44 IST" duration-ms="2578">
     <groups>
     </groups>
-    <test started-at="2022-08-16T14:46:44 IST" name="Default test" finished-at="2022-08-16T14:46:51 IST" duration-ms="7201">
+    <test started-at="2022-08-16T16:59:41 IST" name="Default test" finished-at="2022-08-16T16:59:44 IST" duration-ms="2578">
       <class name="com.practiceJenkins_Framework.CreateOrganisationTest">
-        <test-method signature="createOrganisationTest()[pri:0, instance:com.practiceJenkins_Framework.CreateOrganisationTest@59af0466]" started-at="2022-08-16T14:46:44 IST" name="createOrganisationTest" finished-at="2022-08-16T14:46:51 IST" duration-ms="7157" status="PASS">
+        <test-method signature="createOrganisationTest()[pri:0, instance:com.practiceJenkins_Framework.CreateOrganisationTest@6b8ca3c8]" started-at="2022-08-16T16:59:41 IST" name="createOrganisationTest" finished-at="2022-08-16T16:59:44 IST" duration-ms="2535" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createOrganisationTest -->

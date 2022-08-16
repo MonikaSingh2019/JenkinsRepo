@@ -31,6 +31,8 @@ public class CreateOrganisationTest {
 	System.out.println("Organization Created");
 	System.out.println("Vtiger Org");
 	System.out.println("Test Script");
+	System.out.println("Failed");
+	
 }
 	
 	

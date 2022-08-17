@@ -21,13 +21,17 @@ public class CreateOrganisationTest {
 	{
 		WebDriverManager.chromedriver().setup(); 
 		WebDriver driver = new ChromeDriver();
-		FileInputStream fis = new FileInputStream("./Data/CommonProperty.properties");
-		Properties p = new Properties();
+//		FileInputStream fis = new FileInputStream("./Data/CommonProperty.properties");
+//		Properties p = new Properties();
+//		
+//		p.load(fis);
+//		
 		
-		p.load(fis);
-		
-		String Url=p.getProperty("url");
-		driver.get(Url);
+		String URL=System.getProperty("url");
+		System.out.println(URL);
+		driver.get(URL);
+//		String Url=p.getProperty("url");
+//		driver.get(Url);
 	System.out.println("Organization Created");
 	System.out.println("Vtiger Org");
 	System.out.println("Test Script");

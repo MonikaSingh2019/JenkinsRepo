@@ -37,8 +37,8 @@ public class CreateOrganisationTest {
 	System.out.println("Test Script");
 	System.out.println("Failed");
 	System.out.println("Passed test scrpt");
-	System.out.println("Monika");
-	System.out.println("Ilisha");
+		System.out.println("Ilisha Is 1st Runner Up");
+		System.out.println("Ilishaa");
 	
 }
 	
